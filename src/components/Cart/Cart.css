@@ -3,11 +3,12 @@
     padding: 25px;
     position: sticky;
     top: 0;
+    border-end-end-radius: 10px;
+    border-end-start-radius: 10px;
 }
 .cart p{
     font-size: 17px;
 }
 .cart h6{
     font-size: 21px;
-    margin: 0;
 }
