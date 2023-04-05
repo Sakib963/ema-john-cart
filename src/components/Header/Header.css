@@ -7,13 +7,13 @@
     padding-left: 100px;
     padding-right: 100px;
 }
-nav a{
+nav .link{
     text-decoration: none;
     color: white;
     font-size: 14px;
     margin-right: 32px;
     font-weight: 400;
 }
-nav a:hover{
+nav .link:hover{
     color: orange;
 }
